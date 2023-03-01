@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/google/muskie
+LOCAL_PATH := device/google/walleye
 
 # Audio XMLs
 PRODUCT_COPY_FILES += \
